@@ -1,0 +1,121 @@
+{
+  "s1": [
+    {
+      "name": "Chemistry Lab-Manual",
+      "subject": { "name": "Engineering Chemistry I", "value": "1004" },
+      "type": "lab-manual",
+      "size": "1,049 KB",
+      "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/2007-C.pdf"
+    },
+    {
+      "name": "Physics Lab-Manual",
+      "subject": { "name": "Engineering Physics I", "value": "1003" },
+      "type": "lab-manual",
+      "size": "1,070 KB",
+      "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/2007-P.pdf"
+    },
+    {
+      "name": "Workshop Practice",
+      "subject": { "name": "Workshop Practice", "value": "2008" },
+      "type": "lab-manual",
+      "size": "3.7 MB",
+      "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/2008.pdf"
+    }
+  ],
+  "s2": [
+    {
+      "name": "Chemistry Lab-Manual",
+      "subject": { "name": "Engineering Chemistry II", "value": "2004" },
+      "type": "lab-manual",
+      "size": "1,049 KB",
+      "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/2007-C.pdf"
+    },
+    {
+      "name": "Physics Lab-Manual",
+      "subject": { "name": "Engineering Physics II", "value": "2003" },
+      "type": "lab-manual",
+      "size": "1,070 KB",
+      "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/2007-P.pdf"
+    },
+    {
+      "name": "Workshop Practice",
+      "subject": { "name": "Workshop Practice", "value": "2008" },
+      "type": "lab-manual",
+      "size": "3.7 MB",
+      "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/2008.pdf"
+    }
+  ],
+  "s3": [
+    {
+      "name": "Workshop Practice III",
+      "subject": { "name": "Workshop Practice III", "value": "3027" },
+      "type": "lab-manual",
+      "size": "4.7 MB",
+      "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/3027.pdf"
+    }
+  ],
+  "s4": [
+    {
+      "name": "Workshop Practice IV & Mini Project",
+      "subject": {
+        "name": "Workshop Practice IV & Mini Project",
+        "value": "4029"
+      },
+      "type": "lab-manual",
+      "size": "4.7 MB",
+      "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/3027.pdf"
+    },
+    {
+      "name": "Material Testing Lab",
+      "subject": { "name": "Material Testing Lab", "value": "4028" },
+      "type": "lab-manual",
+      "size": "2.6 MB",
+      "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/4028.pdf"
+    }
+  ],
+  "s5": [
+    {
+      "name": "CADD Lab I",
+      "subject": { "name": "CADD Lab I", "value": "5027" },
+      "type": "lab-manual",
+      "size": "2.6 MB",
+      "url": "https://www.madinpoly.com/lm/5027%20CADD%20LAB%20I.pdf"
+    },
+    {
+      "name": "Industrial Maintenance and Servicing Laboratory",
+      "subject": {
+        "name": "Industrial Maintenance and Servicing Laboratory",
+        "value": "5028"
+      },
+      "type": "lab-manual",
+      "size": "2.5 MB",
+      "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/5028.pdf"
+    },
+    {
+      "name": "Machine Shop Practice",
+      "subject": { "name": "Machine Shop Practice", "value": "5029" },
+      "type": "lab-manual",
+      "size": "1,683 KB",
+      "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/5029.pdf"
+    }
+  ],
+  "s6": [
+    {
+      "name": "CADD Lab II",
+      "subject": { "name": "CADD Lab II", "value": "6028" },
+      "type": "lab-manual",
+      "size": "1,767 KB",
+      "url": "https://www.madinpoly.com/lm/6028%20CADD%20LAB%20II.pdf"
+    },
+    {
+      "name": "Advanced Machine Tool Laboratory",
+      "subject": {
+        "name": "Advanced Machine Tool Laboratory",
+        "value": "6029"
+      },
+      "type": "lab-manual",
+      "size": "1,067 KB",
+      "url": "http://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/6029.pdf"
+    }
+  ]
+}
