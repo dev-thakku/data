@@ -1,0 +1,26 @@
+[
+  {
+    "name": "CADD Lab I",
+    "subject": { "name": "CADD Lab I", "value": "5027" },
+    "type": "lab-manual",
+    "size": "2.6 MB",
+    "url": "https://www.madinpoly.com/lm/5027%20CADD%20LAB%20I.pdf"
+  },
+  {
+    "name": "Industrial Maintenance and Servicing Laboratory",
+    "subject": {
+      "name": "Industrial Maintenance and Servicing Laboratory",
+      "value": "5028"
+    },
+    "type": "lab-manual",
+    "size": "2.5 MB",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/5028.pdf"
+  },
+  {
+    "name": "Machine Shop Practice",
+    "subject": { "name": "Machine Shop Practice", "value": "5029" },
+    "type": "lab-manual",
+    "size": "1,683 KB",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/5029.pdf"
+  }
+]

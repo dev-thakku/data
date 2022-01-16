@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Chemistry Lab-Manual",
+    "subject": { "name": "Engineering Chemistry II", "value": "2004" },
+    "type": "lab-manual",
+    "size": "1,049 KB",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/2007-C.pdf"
+  },
+  {
+    "name": "Physics Lab-Manual",
+    "subject": { "name": "Engineering Physics II", "value": "2003" },
+    "type": "lab-manual",
+    "size": "1,070 KB",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/2007-P.pdf"
+  },
+  {
+    "name": "Workshop Practice",
+    "subject": { "name": "Workshop Practice", "value": "2008" },
+    "type": "lab-manual",
+    "size": "3.7 MB",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/2008.pdf"
+  }
+]

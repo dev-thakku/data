@@ -1,0 +1,19 @@
+[
+  {
+    "name": "CADD Lab II",
+    "subject": { "name": "CADD Lab II", "value": "6028" },
+    "type": "lab-manual",
+    "size": "1,767 KB",
+    "url": "https://www.madinpoly.com/lm/6028%20CADD%20LAB%20II.pdf"
+  },
+  {
+    "name": "Advanced Machine Tool Laboratory",
+    "subject": {
+      "name": "Advanced Machine Tool Laboratory",
+      "value": "6029"
+    },
+    "type": "lab-manual",
+    "size": "1,067 KB",
+    "url": "http://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/6029.pdf"
+  }
+]
