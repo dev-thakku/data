@@ -1,0 +1,385 @@
+[
+  {
+    "name": "Project & Seminar",
+    "subject": { "name": "Project & Seminar", "value": "6009" },
+    "type": "lab-manual",
+    "size": "1,049 KB",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/gpt_template_report.zip"
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6041-2021-Apr-Key.pdf",
+    "subject": {
+      "name": "Advanced Microprocessors",
+      "value": "6041"
+    }
+  },
+  {
+    "name": "2021 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6041-2021-Apr.pdf",
+    "subject": {
+      "name": "Advanced Microprocessors",
+      "value": "6041"
+    }
+  },
+  {
+    "name": "2020 October Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6041-2020-Nov-Key.pdf",
+    "subject": {
+      "name": "Advanced Microprocessors",
+      "value": "6041"
+    }
+  },
+  {
+    "name": "2020 October Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6041-2020-Nov-Key.pdf",
+    "subject": {
+      "name": "Advanced Microprocessors",
+      "value": "6041"
+    }
+  },
+  {
+    "name": "2020 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6041-2020-Nov.pdf",
+    "subject": {
+      "name": "Advanced Microprocessors",
+      "value": "6041"
+    }
+  },
+  {
+    "name": "2019 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6041-2019-Nov.pdf",
+    "subject": {
+      "name": "Advanced Microprocessors",
+      "value": "6041"
+    }
+  },
+  {
+    "name": "2018 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6041-2018-Oct.pdf",
+    "subject": {
+      "name": "Advanced Microprocessors",
+      "value": "6041"
+    }
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6042-2021-Apr-Key.pdf",
+    "subject": {
+      "name": "Communication Systems",
+      "value": "6042"
+    }
+  },
+  {
+    "name": "2021 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6042-2021-Apr.pdf",
+    "subject": {
+      "name": "Communication Systems",
+      "value": "6042"
+    }
+  },
+  {
+    "name": "2020 October Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6042-2020-Nov-Key.pdf",
+    "subject": {
+      "name": "Communication Systems",
+      "value": "6042"
+    }
+  },
+  {
+    "name": "2020 October Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6042-2020-Nov-Key.pdf",
+    "subject": {
+      "name": "Communication Systems",
+      "value": "6042"
+    }
+  },
+  {
+    "name": "2020 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6042-2020-Nov.pdf",
+    "subject": {
+      "name": "Communication Systems",
+      "value": "6042"
+    }
+  },
+  {
+    "name": "2019 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6042-2019-Nov.pdf",
+    "subject": {
+      "name": "Communication Systems",
+      "value": "6042"
+    }
+  },
+  {
+    "name": "2019 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6042-2019-April.pdf",
+    "subject": {
+      "name": "Communication Systems",
+      "value": "6042"
+    }
+  },
+  {
+    "name": "2018 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6042-2018-Oct.pdf",
+    "subject": {
+      "name": "Communication Systems",
+      "value": "6042"
+    }
+  },
+  {
+    "name": "2018 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6042-2018-Apr.pdf",
+    "subject": {
+      "name": "Communication Systems",
+      "value": "6042"
+    }
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6043-2021-Apr-Key.pdf",
+    "subject": {
+      "name": "Computer Hardware & Networking",
+      "value": "6043"
+    }
+  },
+  {
+    "name": "2021 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6043-2021-Apr.pdf",
+    "subject": {
+      "name": "Computer Hardware & Networking",
+      "value": "6043"
+    }
+  },
+  {
+    "name": "2019 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6043-2019-Nov.pdf",
+    "subject": {
+      "name": "Computer Hardware & Networking",
+      "value": "6043"
+    }
+  },
+  {
+    "name": "2018 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6043-2018-Oct.pdf",
+    "subject": {
+      "name": "Computer Hardware & Networking",
+      "value": "6043"
+    }
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6044-2021-Apr-Key.pdf",
+    "subject": {
+      "name": "Digital Signal Processing",
+      "value": "6044"
+    }
+  },
+  {
+    "name": "2021 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6044-2021-Apr.pdf",
+    "subject": {
+      "name": "Digital Signal Processing",
+      "value": "6044"
+    }
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6045-2021-Apr-Key.pdf",
+    "subject": {
+      "name": "Radar and Navigation",
+      "value": "6045"
+    }
+  },
+  {
+    "name": "2021 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6045-2021-Apr.pdf",
+    "subject": {
+      "name": "Radar and Navigation",
+      "value": "6045"
+    }
+  },
+  {
+    "name": "2020 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6045-2020-Apr.pdf",
+    "subject": {
+      "name": "Radar and Navigation",
+      "value": "6045"
+    }
+  },
+  {
+    "name": "2019 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6045-2019-Nov.pdf",
+    "subject": {
+      "name": "Radar and Navigation",
+      "value": "6045"
+    }
+  },
+  {
+    "name": "2019 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6045-2019-April.pdf",
+    "subject": {
+      "name": "Radar and Navigation",
+      "value": "6045"
+    }
+  },
+  {
+    "name": "2018 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6045-2018-Apr.pdf",
+    "subject": {
+      "name": "Radar and Navigation",
+      "value": "6045"
+    }
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6046-2021-Apr-Key.pdf",
+    "subject": {
+      "name": "Television Engineering",
+      "value": "6046"
+    }
+  },
+  {
+    "name": "2021 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6046-2021-Apr.pdf",
+    "subject": {
+      "name": "Television Engineering",
+      "value": "6046"
+    }
+  },
+  {
+    "name": "2019 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6046-2019-Nov.pdf",
+    "subject": {
+      "name": "Television Engineering",
+      "value": "6046"
+    }
+  },
+  {
+    "name": "2019 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6046-2019-April.pdf",
+    "subject": {
+      "name": "Television Engineering",
+      "value": "6046"
+    }
+  },
+  {
+    "name": "2018 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6046-2018-Oct.pdf",
+    "subject": {
+      "name": "Television Engineering",
+      "value": "6046"
+    }
+  },
+  {
+    "name": "2018 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6046-2018-Apr.pdf",
+    "subject": {
+      "name": "Television Engineering",
+      "value": "6046"
+    }
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6131-2021-Apr-Key.pdf"
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6132-2021-Apr-Key.pdf"
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6133-2021-Apr-Key.pdf"
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6134-2021-Apr-Key.pdf"
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6135-2021-Apr-Key.pdf"
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/6136-2021-Apr-Key.pdf"
+  }
+]

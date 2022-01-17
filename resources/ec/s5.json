@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Industrial Training/Industrial Visit/Collaborative work",
+    "subject": {
+      "name": "Industrial Training/Industrial Visit/Collaborative work",
+      "value": "5009"
+    },
+    "type": "lab-manual",
+    "size": "1,049 KB",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/5009_20.pdf"
+  },
+  {
+    "name": "Embedded System Lab",
+    "subject": { "name": "Embedded System", "value": "5041" },
+    "type": "lab-manual",
+    "size": "1,049 KB",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/5041.pdf"
+  },
+  {
+    "name": "Digital Communication Lab",
+    "subject": { "name": "Digital Communication Lab", "value": "5209" },
+    "type": "lab-manual",
+    "size": "1,049 KB",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/Lab/5209.pdf"
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5001-2021-Apr-Key.pdf",
+    "subject": {
+      "name": "Industrial Management & Safety",
+      "value": "5001"
+    }
+  },
+  {
+    "name": "2021 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5001-2021-Apr.pdf",
+    "subject": {
+      "name": "Industrial Management & Safety",
+      "value": "5001"
+    }
+  },
+  {
+    "name": "2020 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5001-2020-Apr.pdf",
+    "subject": {
+      "name": "Industrial Management & Safety",
+      "value": "5001"
+    }
+  },
+  {
+    "name": "2019 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5001-2019-Nov.pdf",
+    "subject": {
+      "name": "Industrial Management & Safety",
+      "value": "5001"
+    }
+  },
+  {
+    "name": "2018 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5001-2018-Oct.pdf",
+    "subject": {
+      "name": "Industrial Management & Safety",
+      "value": "5001"
+    }
+  },
+  {
+    "name": "2018 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5001-2018-Apr.pdf",
+    "subject": {
+      "name": "Industrial Management & Safety",
+      "value": "5001"
+    }
+  },
+  {
+    "name": "2017 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5001-2017-Oct.pdf",
+    "subject": {
+      "name": "Industrial Management & Safety",
+      "value": "5001"
+    }
+  },
+  {
+    "name": "2010 October Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5001-2020-Nov-Key.pdf",
+    "subject": {
+      "name": "Industrial Management & Safety",
+      "value": "5001"
+    }
+  },
+  {
+    "name": "2010 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5001-2020-Nov.pdf",
+    "subject": {
+      "name": "Industrial Management & Safety",
+      "value": "5001"
+    }
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5041-2021-Apr-Key.pdf",
+    "subject": {
+      "name": "Embedded System",
+      "value": "5041"
+    }
+  },
+  {
+    "name": "2021 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5041-2021-Apr.pdf",
+    "subject": {
+      "name": "Embedded System",
+      "value": "5041"
+    }
+  },
+  {
+    "name": "2020 October Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5041-2020-Nov-Key.pdf",
+    "subject": {
+      "name": "Embedded System",
+      "value": "5041"
+    }
+  },
+  {
+    "name": "2020 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5041-2020-Nov.pdf",
+    "subject": {
+      "name": "Embedded System",
+      "value": "5041"
+    }
+  },
+  {
+    "name": "2020 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5041-2020-Apr.pdf",
+    "subject": {
+      "name": "Embedded System",
+      "value": "5041"
+    }
+  },
+  {
+    "name": "2019 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5041-2019-Nov.pdf",
+    "subject": {
+      "name": "Embedded System",
+      "value": "5041"
+    }
+  },
+  {
+    "name": "2019 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5041-2019-April.pdf",
+    "subject": {
+      "name": "Embedded System",
+      "value": "5041"
+    }
+  },
+  {
+    "name": "2018 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5041-2018-Oct.pdf",
+    "subject": {
+      "name": "Embedded System",
+      "value": "5041"
+    }
+  },
+  {
+    "name": "2018 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5041-2018-Apr.pdf",
+    "subject": {
+      "name": "Embedded System",
+      "value": "5041"
+    }
+  },
+  {
+    "name": "2018 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5042-2018-Apr.pdf"
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5043-2021-Apr-Key.pdf",
+    "subject": {
+      "name": "Control System",
+      "value": "5043"
+    }
+  },
+  {
+    "name": "2021 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5043-2021-Apr.pdf",
+    "subject": {
+      "name": "Control System",
+      "value": "5043"
+    }
+  },
+  {
+    "name": "2018 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5043-2018-Oct.pdf",
+    "subject": {
+      "name": "Control System",
+      "value": "5043"
+    }
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5044-2021-Apr-Key.pdf",
+    "subject": {
+      "name": "Medical Electronics",
+      "value": "5044"
+    }
+  },
+  {
+    "name": "2021 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5044-2021-Apr.pdf",
+    "subject": {
+      "name": "Medical Electronics",
+      "value": "5044"
+    }
+  },
+  {
+    "name": "2019 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5044-2019-Nov.pdf",
+    "subject": {
+      "name": "Medical Electronics",
+      "value": "5044"
+    }
+  },
+  {
+    "name": "2019 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5044-2019-April.pdf",
+    "subject": {
+      "name": "Medical Electronics",
+      "value": "5044"
+    }
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5045-2021-Apr-Key.pdf",
+    "subject": {
+      "name": "Optical Fibre Communication",
+      "value": "5045"
+    }
+  },
+  {
+    "name": "2021 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5045-2021-Apr.pdf",
+    "subject": {
+      "name": "Optical Fibre Communication",
+      "value": "5045"
+    }
+  },
+  {
+    "name": "2019 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5045-2019-Nov.pdf",
+    "subject": {
+      "name": "Optical Fibre Communication",
+      "value": "5045"
+    }
+  },
+  {
+    "name": "2018 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5045-2018-Oct.pdf",
+    "subject": {
+      "name": "Optical Fibre Communication",
+      "value": "5045"
+    }
+  },
+  {
+    "name": "2018 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5045-2018-Apr.pdf",
+    "subject": {
+      "name": "Optical Fibre Communication",
+      "value": "5045"
+    }
+  },
+  {
+    "name": "2021 April Key",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5201-2021-Apr-Key.pdf",
+    "subject": {
+      "name": "Digital Communication",
+      "value": "5201"
+    }
+  },
+  {
+    "name": "2021 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5201-2021-Apr.pdf",
+    "subject": {
+      "name": "Digital Communication",
+      "value": "5201"
+    }
+  },
+  {
+    "name": "2020 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5201-2020-Apr.pdf",
+    "subject": {
+      "name": "Digital Communication",
+      "value": "5201"
+    }
+  },
+  {
+    "name": "2019 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5201-2019-Nov.pdf",
+    "subject": {
+      "name": "Digital Communication",
+      "value": "5201"
+    }
+  },
+  {
+    "name": "2019 April",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5201-2019-April.pdf",
+    "subject": {
+      "name": "Digital Communication",
+      "value": "5201"
+    }
+  },
+  {
+    "name": "2018 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5201-2018-Oct.pdf",
+    "subject": {
+      "name": "Digital Communication",
+      "value": "5201"
+    }
+  },
+  {
+    "name": "2017 October",
+    "type": "questions",
+    "size": "",
+    "url": "https://gptcperumbavoor.ac.in/gptcpbvr/Materials/QP/5201-2017-Oct.pdf",
+    "subject": {
+      "name": "Digital Communication",
+      "value": "5201"
+    }
+  }
+]
